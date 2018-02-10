@@ -1,0 +1,26 @@
+{
+  "name": "proactive-test-pkg",
+  "version": "1.0.0",
+  "description": "Test NPM package for Promidea Proactive.",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PROMIDEA/proactive-test-pkg.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Promidea",
+    "Proactive",
+    "Test",
+    "Package",
+    "NPM"
+  ],
+  "author": "Promidea",
+  "license": "MIT",
+  "dependencies": {
+    "expr-eval": "^1.2.1"
+  },
+  "typings": "dist/index.d.ts"
+}
